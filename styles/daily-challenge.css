@@ -1,0 +1,39 @@
+main {
+  width: 800px;
+  margin: 200px auto 72px auto;
+  padding: 24px;
+  border: solid 5px black;
+  background-color: rgb(223, 248, 248);
+  box-shadow: 1px 2px 5px rgb(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: black 5px solid;
+  display: inline-block;
+  margin-top: -134px;
+}
+
+h1 {
+  padding: 100px 10px 5px 10px;
+}
+
+a {
+  color: rgb(20, 20, 100);
+}
+
+
+span {
+  color: rgb(200, 55, 55);
+}
+
+#todays-challenge {
+  color: rgb(170, 96, 83);
+  font-weight: 400;
+  font-size: 52px;
+  font-family: "Maven Pro", sans-serif;
+}
+
